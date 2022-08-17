@@ -1,7 +1,7 @@
 {
-  "name": "08---websockets---server",
+  "name": "08---socket-app---colas",
   "version": "1.0.0",
-  "description": "Fundamentos WebSockets - Curso Nodejs 2022",
+  "description": "App de tickets con sockets - Curso Nodejs 2022",
   "type": "module",
   "main": "app.js",
   "scripts": {
